@@ -1,0 +1,38 @@
+header{
+	border: solid   red 1px ;
+	background: #000; 
+	width: 100%;
+	height: 100px;
+	text-align: right;
+	z-index: 1;
+	
+}
+a{
+	border: solid 0.5px white ;
+	color: white;
+	text-decoration: none;
+	margin: 5px;
+	padding: 5px;
+	height: 8px;
+	width: 8px;
+
+}
+
+div{
+
+	
+	height: 800px;
+	width: 100%;
+	z-index: 0;
+}
+
+section{
+
+	border: groove 5px green ;
+}
+
+.footer{
+	background: black;
+	height: 300px;
+	color: white;
+}
